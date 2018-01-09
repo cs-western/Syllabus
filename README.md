@@ -1,12 +1,14 @@
 # Syllabus
 
 
-CS397 Special Topics: Android Programming
-Spring 2018
-Instructor: Mr. Hongin Park
+**CS397 Special Topics: Android Programming
+
+**Spring 2018
+
+**Instructor: Mr. Hongin Park**
 
 
---- **Office and contact info**: Hurst 114, 943-2069, hpark@western.edu The phone is shared with two other faculty members so you may prefer to contact me via email.  See the GitHub section below also.
+**Office and contact info**: Hurst 114, 943-2069, hpark@western.edu The phone is shared with two other faculty members so you may prefer to contact me via email.  See the GitHub section below also.
 
 **GitHub Organization**: https://github.com/cs-western will have syllabus, assignments, updates, boiler template codes, contents of lectures, projects, etc. Students will also upload assignments and work with other students through this site. 
 
