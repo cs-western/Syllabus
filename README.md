@@ -1,9 +1,9 @@
 # Syllabus
 
 
-**CS397 Special Topics: Android Programming
+**CS397 Special Topics: Android Programming**
 
-**Spring 2018
+**Spring 2018**
 
 **Instructor: Mr. Hongin Park**
 
