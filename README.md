@@ -117,7 +117,7 @@ There will be no exam but the group project will be replaced as the final.
 ## Grades
 
 
-Makeup work is not possible1
+Makeup work is not possible.
 
 Grades will be assigned as follows.
 
