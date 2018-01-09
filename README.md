@@ -8,7 +8,7 @@
 **Instructor: Mr. Hongin Park**
 
 
-**Office and contact info**: 
+## Office and contact info
 
 Hurst 114
 
@@ -18,11 +18,12 @@ hpark@western.edu
 
 The phone is shared with two other faculty members so you may prefer to contact me via email.  See the GitHub section below also.
 
-**GitHub Organization**: https://github.com/cs-western will have syllabus, assignments, updates, boiler template codes, contents of lectures, projects, etc. Students will also upload assignments and work with other students through this site. 
+## GitHub Organization
+https://github.com/cs-western will have syllabus, assignments, updates, boiler template codes, contents of lectures, projects, etc. Students will also upload assignments and work with other students through this site. 
 
 The GitHub, Inc granted our class with unlimited free private repositories and unlimited seats. Every student must sign up for the GitHub and join the organization using the school email so that the instructor can evaluate students.
 			
-**Office hours**:
+## Office hours
 T, Th11-11:30
 
 **Backing Up Your Computer**: Computer drives fail, particularly laptops. Back up your work. ‘My computer crashed’ is not an excuse in this class. 
