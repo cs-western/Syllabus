@@ -64,7 +64,7 @@ Ch16. Cursors
 
 Ch17. AsyncTasks
 
-Ch12. Desin
+Ch12. Desin Support Library
 
 Ch14. Navigation Drawers
 
